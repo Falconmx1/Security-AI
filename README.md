@@ -20,3 +20,8 @@ git clone https://github.com/Falconmx1/security-ai.git
 cd security-ai
 pip install -r requirements.txt
 python setup.py install
+
+
+## 📜 Licencia
+
+GNU General Public License v3.0 - Eres libre de usarlo y modificarlo, pero cualquier mejora debe ser compartida con la comunidad. El conocimiento es poder, pero compartido es imparable.
